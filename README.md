@@ -1,4 +1,4 @@
-# 🤖 Articular Arm Mark I
+# 🤖 CartoBot-MK1
 
 Un projet open-source de bras robotisé articulé en carton — conçu de A à Z pour apprendre la robotique, de la mécanique à la programmation bas niveau.
 
