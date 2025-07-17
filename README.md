@@ -16,8 +16,8 @@ Ce projet est né dans le cadre de ma reconversion vers l'ingénierie robotique.
 
 ## 🧩 Fonctionnalités prévues
 
-- [ ] Modélisation 3D (Fusion 360)
-- [ ] Impression des premières pièces
+- [ ] Modélisation 3D de l'idée
+- [ ] Decoupe des premières pièces
 - [ ] Contrôle des moteurs avec drivers (A4988 ou DRV8825)
 - [ ] Implémentation des mouvements de base
 - [ ] Communication série UART avec un ordinateur
@@ -29,10 +29,10 @@ Ce projet est né dans le cadre de ma reconversion vers l'ingénierie robotique.
 ## ⚙️ Technologies utilisées
 
 ### 🔧 Hardware
-- 
+- ...
 
 ### 💻 Software
-- 
+- ...
 
 ---
 
